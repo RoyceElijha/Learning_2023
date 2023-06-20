@@ -1,0 +1,10 @@
+#include <stdio.h>
+
+// Structure definition for a box
+struct Box {
+    double length;
+    double width;
+    double height;
+};
+
+// Function t}
